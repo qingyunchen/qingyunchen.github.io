@@ -8,6 +8,7 @@ header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - vue3
+---
 
 123
 # 在 Vite + TypeScript 项目中引入本地包 `uview-plus` 的完整配置指南
@@ -127,7 +128,5 @@ console.log(uviewPlus);
 ---
 
 通过上述步骤，TypeScript 应该能够正确识别 `uview-plus` 包。希望对你有所帮助！如果你在配置过程中遇到问题，欢迎在评论区留言讨论。
-
-
 
 
