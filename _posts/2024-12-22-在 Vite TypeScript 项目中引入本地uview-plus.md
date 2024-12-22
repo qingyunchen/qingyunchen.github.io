@@ -9,7 +9,7 @@ catalog: true 						# 是否归档
 tags:								#标签
     - vue3
 
-
+123
 # 在 Vite + TypeScript 项目中引入本地包 `uview-plus` 的完整配置指南
 
 在 Vite TypeScript 项目中引入本地包（如 `uview-plus`），需要确保 TypeScript 能正确识别该包的类型定义。以下是详细的配置步骤。
