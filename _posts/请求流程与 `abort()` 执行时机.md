@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      XMLHttpRequest (XHR) abort执行时机	# 标题 
+subtitle:   #副标题
+date:       2024-12-22 				# 时间
+author:     BY chenqingyun					# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - XHR
+---
 `abort()` 方法在 **`XMLHttpRequest` 请求流程中的作用**是中止当前的请求，它通常在请求的 **任何阶段** 调用都有效，尤其是在请求还未完成时。如果在某个阶段调用 `abort()`，它会立刻停止请求并触发 `onabort` 事件。
 
 ### **📌 请求流程与 `abort()` 执行时机**
