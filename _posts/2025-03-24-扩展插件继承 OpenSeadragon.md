@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      小程序canvas宽高 				# 标题 
+title:      扩展插件继承 OpenSeadragon 				# 标题 
 subtitle:   #副标题
 date:       2025-03-24 				# 时间
 author:     BY chenqingyun					# 作者
